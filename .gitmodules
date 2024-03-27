@@ -1,0 +1,3 @@
+[submodule "ACVNet"]
+	path = ACVNet
+	url = https://github.com/gangweiX/ACVNet.git
